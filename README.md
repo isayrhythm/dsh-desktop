@@ -1,5 +1,7 @@
 # dsh-desktop
 
+<img src="assets/icon.png" width="96" height="96" alt="icon">
+
 把 DeepSeek Harness Web（DSH）包成独立应用窗口的启动器。双击即用，无需命令行，服务后台隐形运行。
 
 ## 目录结构
